@@ -1,0 +1,60 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color:aliceblue;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#navbar{
+    height:60px;
+    background-color: #0f1111;
+    border:8px solid white;
+    box-sizing: border-box;
+}
+a{
+    color:white;
+}
+#maz{
+    color:yellow;
+    font-size: 25px;
+    padding-right: 200px;
+}
+#acc{
+    padding-right: 150px;
+}
+#cart{
+    padding-right: 200px;
+}
+ #con{
+    padding-right: 150px;
+}
+#inn{
+    padding-right: 0px;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    border-radius: 2px;
+    color:darkgray;
+}
+button{
+    padding: 0px 0px 0px 0px;
+    background-color: #f08804;
+    box-sizing: border-box;
+}
+.contentbox{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    display:inline-block;
+}
+#content{
+    height:400px;
+}
+footer{
+    height:80px;
+    background-color: #0f1111;
+    text-align: center;
+    color:aliceblue;
+}
